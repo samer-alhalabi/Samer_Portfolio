@@ -2,7 +2,7 @@
 
 ### Data Science/Machine Learning Projects:
 
-- ##### Forecasting:
+- #### Forecasting:
 [Store Sales Forecasting](https://github.com/samer-alhalabi/Store-Sales-Forecasting)
 
 - ##### Regression: 

@@ -8,6 +8,5 @@
 - [GDP per Capita Dataset](https://github.com/samer-alhalabi/Data-Exploration-Visualization)
 - [Explore Your LinkedIn Network](https://github.com/samer-alhalabi/Explore-your-LinkedIn-Network)
 - [COVID-19 Dashboard using Dash by Plotly](https://github.com/samer-alhalabi/COVID-19-Dashboard-using-Dash-by-Plotly)
-- 
 
 

@@ -24,8 +24,8 @@
 [Customer Movies Recommendations Apps](https://github.com/samer-alhalabi/Recommendation-Systems-Apps)
 
 ### Web Scraping Projects:
-- [Scraping stocks data and send scraped data to your inbox]((https://github.com/samer-alhalabi/Web-Scraping)
-- [Scraping English Premier League player stats]((https://github.com/samer-alhalabi/Web-Scraping)
+- [Scraping stocks data and send scraped data to your inbox](https://github.com/samer-alhalabi/Web-Scraping)
+- [Scraping English Premier League player stats](https://github.com/samer-alhalabi/Web-Scraping)
 
 ### Data Analysis/Visualization Projects:
 - [GDP per Capita Dataset](https://github.com/samer-alhalabi/Data-Exploration-Visualization)

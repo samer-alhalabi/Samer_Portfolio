@@ -1,5 +1,7 @@
 # Samer's Portfolio
 
+![image](images/proj1.jpeg)
+
 ### Data Science/Machine Learning Projects:
 
 ### Forecasting:

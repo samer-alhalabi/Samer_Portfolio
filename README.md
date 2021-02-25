@@ -9,4 +9,8 @@
 - [Explore Your LinkedIn Network](https://github.com/samer-alhalabi/Explore-your-LinkedIn-Network)
 - [COVID-19 Dashboard using Dash by Plotly](https://github.com/samer-alhalabi/COVID-19-Dashboard-using-Dash-by-Plotly)
 
+#### Data/Boring Tasks Projects:
+- [Organizing Downloads Folder](https://github.com/samer-alhalabi/Organizing-Downloads-Folder)
+- [Explore Your LinkedIn Network](https://github.com/samer-alhalabi/Explore-your-LinkedIn-Network)
+- [COVID-19 Dashboard using Dash by Plotly](https://github.com/samer-alhalabi/COVID-19-Dashboard-using-Dash-by-Plotly)
 

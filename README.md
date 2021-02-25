@@ -1,6 +1,6 @@
 # Samer's Portfolio
 
-![image](images/proj.jpg)
+![image](images/icdpp-banner.jpg)
 
 ## Data Science/Machine Learning Projects:
 

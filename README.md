@@ -16,7 +16,7 @@
 - [Customers Classification with K-Nearest-Neighbors (KNN)](https://github.com/samer-alhalabi/Customer-Classification-with-K-Nearest-Neighbors)
 - [Human Cells Classification with Support Vector Machines (SVM)](https://github.com/samer-alhalabi/Human-Cells-Classification-Support-Vector-Machines-SVM)
 - [Loan Eligibility](https://github.com/samer-alhalabi/Loan-Eligibility-using-Machine-Learning-Models)
-- [Customer Attrition Prediction: XGboost](https://github.com/samer-alhalabi/Customer-Attrition-Prediction-XGboost)
+- [Customer Attrition Prediction: XGBoost](https://github.com/samer-alhalabi/Customer-Attrition-Prediction-XGboost)
  
 #### Clustering:
 - [Banking & Credit Card Customer Segmentation with K-Means](https://github.com/samer-alhalabi/Customer-Segmentation-with-K-Means)

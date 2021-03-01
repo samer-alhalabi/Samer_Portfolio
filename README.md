@@ -1,6 +1,6 @@
 # Samer's Portfolio
 
-![image](images/pp.jpg)
+![image](images/p_pic1.jpg)
 
 ## Data Science/Machine Learning Projects:
 

@@ -33,6 +33,7 @@
 - [World's GDP per Capita Analysis](https://github.com/samer-alhalabi/Data-Exploration-Visualization)
 - [Explore Your LinkedIn Network](https://github.com/samer-alhalabi/Explore-your-LinkedIn-Network)
 - [COVID-19 Dashboard using Dash by Plotly](https://github.com/samer-alhalabi/COVID-19-Dashboard-using-Dash-by-Plotly)
+- [Google Trends with Pytrends](https://github.com/samer-alhalabi/Google-Trends-with-Pytrends)
 
 ## Some Data Tasks using Python:
 - [Organizing Downloads Folder](https://github.com/samer-alhalabi/Organizing-Downloads-Folder)

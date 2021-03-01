@@ -23,7 +23,7 @@
 - [Clustering Mall Customers](https://github.com/samer-alhalabi/Clustering-Mall-Customers)
 
 #### Recommendation Systems:
-[Customer Movies Recommendations Apps](https://github.com/samer-alhalabi/Recommendation-Systems-Apps)
+[Movie Recommendations Apps](https://github.com/samer-alhalabi/Recommendation-Systems-Apps)
 
 ## Web Scraping Projects:
 - [Scraping stocks data and send scraped data to your inbox](https://github.com/samer-alhalabi/Web-Scraping)

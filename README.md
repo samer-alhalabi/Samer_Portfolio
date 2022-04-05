@@ -17,6 +17,7 @@
 - [Human Cells Classification with Support Vector Machines (SVM)](https://github.com/samer-alhalabi/Human-Cells-Classification-Support-Vector-Machines-SVM)
 - [Loan Eligibility](https://github.com/samer-alhalabi/Loan-Eligibility-using-Machine-Learning-Models)
 - [Customer Attrition Prediction: XGBoost](https://github.com/samer-alhalabi/Customer-Attrition-Prediction-XGboost)
+- [IMDB Sentiment Analysis and Classification Prediction](https://github.com/samer-alhalabi/Customer-Attrition-Prediction-XGboost)
  
 #### Clustering:
 - [Banking & Credit Card Customer Segmentation with K-Means](https://github.com/samer-alhalabi/Customer-Segmentation-with-K-Means)

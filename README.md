@@ -18,6 +18,8 @@
 - [Loan Eligibility](https://github.com/samer-alhalabi/Loan-Eligibility-using-Machine-Learning-Models)
 - [Customer Attrition Prediction: XGBoost](https://github.com/samer-alhalabi/Customer-Attrition-Prediction-XGboost)
 - [IMDB Sentiment Analysis and Classification Prediction](https://github.com/samer-alhalabi/IMDB-Sentiment-Analysis)
+- [2022 Ohio Senate Elections Sentiment Analysis](https://github.com/samer-alhalabi/2022-Ohio-Senate-Elections-Sentiment-Analysis)
+
  
 #### Clustering:
 - [Banking & Credit Card Customer Segmentation with K-Means](https://github.com/samer-alhalabi/Customer-Segmentation-with-K-Means)
